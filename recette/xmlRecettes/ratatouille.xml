@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="recette_html.xsl"?>
+<!DOCTYPE recette SYSTEM "recette.dtd" [
+	<!ENTITY nbsp "&#160;">
+]>
+<recette ID="ratatouille" plat="mets_principal" calories="0">
+	<nom>Ratatouille</nom>
+	<description>
+	Une bonne façon de profiter de l'abondance des légumes est de faire
+	une conserve de ratatouille. Rien de plus simple, nous dit le chef
+	Thomas Green qui nous livre la recette suivante.
+    </description>
+	<notes>
+		<note>Vous pouvez un wok ou un faitout. Se servir d'une
+			cuillère en bois de préférence.
+       </note>
+	</notes>
+	<liste_ingrédients portions="4">
+		<ingrédient quantité="1">aubergine moyenne</ingrédient>
+		<ingrédient quantité="2">courgettes vertes</ingrédient>
+		<ingrédient quantité="1">poivron vert</ingrédient>
+		<ingrédient quantité="8">tomates italiennes coupées en quatre</ingrédient>
+		<ingrédient unité="tasse" quantité="0.25">huile végétale</ingrédient>
+		<ingrédient unité="càthé" quantité="2">sel</ingrédient>
+		<ingrédient unité="càthé" quantité="0.25">poivre</ingrédient>
+		<ingrédient quantité="3">gousses d'ail écrasées</ingrédient>
+	</liste_ingrédients>
+	<étapes>
+		<préparation>
+			<durée quantité="0.5" unité="heure"/>
+		</préparation>
+		<cuisson>
+			<durée quantité="1" unité="heure"/>
+		</cuisson>
+		<étape>
+			<alinéa>
+        Couper les légumes avec leur pelure en cubes d'un pouce.
+      </alinéa>
+		</étape>
+		<étape>
+			<alinéa>
+        Jeter tous les légumes d'un coup dans l'huile chaude et faire
+        cuire <durée quantité="5" unité="minute"/> en remuant souvent.
+      </alinéa>
+		</étape>
+		<étape>
+			<alinéa>
+         Assaisonner et ajouter les gousses d'ail en cours de cuisson.
+       </alinéa>
+		</étape>
+		<étape>
+			<alinéa>
+         Laisser reposer la ratatouille pour qu'elle refroidisse un peu avant
+         de la mettre dans des pots. 
+       </alinéa>
+		</étape>
+		<étape>
+			<alinéa>
+        Faire stéréliser <durée quantité="15" unité="minute"/> dans une
+        marmite remplie d'eau.
+       </alinéa>
+		</étape>
+	</étapes>
+</recette>

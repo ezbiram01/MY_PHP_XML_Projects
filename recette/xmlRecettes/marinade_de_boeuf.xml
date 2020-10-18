@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recette SYSTEM "recette.dtd">
+<?xml-stylesheet type="text/xsl" href="recette_fo.xsl"?>
+<recette ID="marinade_de_boeuf" plat="boeuf" calories="???">
+	<nom>Marinade de boeuf</nom>
+	<description>Une recette de marinade pour du boeuf à fondue, mais que j'utilise au préalable à un boeuf bourguignon.</description>
+	<liste_ingrédients portions="16">
+		<ingrédient quantité="2" unité="càsoupe">vinaigre</ingrédient>
+		<ingrédient quantité="1.5" unité="càthé">gingembre moulu</ingrédient>
+		<ingrédient quantité="1">gousse d'ail émincée</ingrédient>
+		<ingrédient quantité="2" unité="càsoupe">casonade</ingrédient>
+		<ingrédient quantité="0.5" unité="tasse">sauce soya</ingrédient>
+		<ingrédient quantité="0.75" unité="tasse">huile</ingrédient>
+		<ingrédient quantité="3" unité="livre">boeuf en cubes (surlonge ou ronde)</ingrédient>
+	</liste_ingrédients>
+	<étapes>
+		<préparation>
+			<durée quantité="10" unité="minute "/>
+		</préparation>
+		<cuisson>
+			<durée quantité="24" unité="heure"/>
+		</cuisson>
+		<étape>
+			<alinéa>Dans un bol, combiner le viaigre, le gingembre, l'ail, la cassonade, la sauce soya et l'huile. Bien intégrer.</alinéa>
+		</étape>
+		<étape>
+			<alinéa>Verser la marinade sur les cubes de boeuf dans un grand bol. Brasser pour enrober tous les cubes de boeuf. Couvrir et laisser mariner dans le réfrégirateur pour au moins 3 à 4 heures.</alinéa>
+		</étape>
+		<étape>
+			<alinéa>30 minutes avant d'utiliser, bien égouter le tout et sécher les cubes.</alinéa>
+		</étape>
+	</étapes>
+</recette>

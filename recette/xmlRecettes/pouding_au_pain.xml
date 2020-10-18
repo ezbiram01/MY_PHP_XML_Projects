@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="recette_fo.xsl"?>
+<!DOCTYPE recette SYSTEM "recette.dtd" [
+	<!ENTITY nbsp "&#160;">
+]>
+<recette ID="pouding_au_pain" plat="dessert" calories="500">
+  <nom>Pouding au pain</nom>
+  <description>La fameuse recette de Jeanine Marcotte que nous mangeons à
+    chaque Jour de l'An.</description>
+  <liste_ingrédients portions="8">
+    <ingrédient quantité="1" unité="tasse">sirop d'érable</ingrédient>
+    <ingrédient quantité="1">baguette de pain croûté</ingrédient>
+    <ingrédient quantité="3" unité="càsoupe">beurre</ingrédient>
+    <ingrédient quantité="3"> oeufs</ingrédient>
+    <ingrédient quantité="1.5" unité="tasse">lait</ingrédient>
+    <ingrédient quantité="0.5" unité="tasse">raisins secs</ingrédient>
+    <ingrédient quantité="1">pincée de sel</ingrédient>
+  </liste_ingrédients>
+  <étapes>
+    <préparation>
+      <durée quantité="30" unité="minute"/>
+    </préparation>
+    <cuisson>
+      <durée quantité="50" unité="minute"/>
+    </cuisson>
+    <étape>
+      <alinéa>Couper la baguette en tranches de <mesure quantité="0.75"
+          unité="pouce"/> coupées en trois.</alinéa>
+    </étape>
+    <étape>
+      <alinéa>Passer les raisins secs au micro-ondes pour <durée
+          quantité="30" unité="seconde"/> avec <mesure quantité="1"
+          unité="once"/> d'eau.</alinéa>
+    </étape>
+    <étape>
+      <alinéa>Faire bouillir le sirop <durée quantité="5" unité="minute"/>.</alinéa>
+      <alinéa>Rester à côté car le tout peut facilement déborder.</alinéa>
+    </étape>
+    <étape>
+      <alinéa>Beurrer pain sur un côté, tremper dans le sirop.</alinéa>
+      <alinéa>Beurrer en dessous.</alinéa>
+    </étape>
+    <étape>
+      <alinéa>Battre les oeufs et mélanger avec le lait et le sel et le reste
+        du sirop.</alinéa>
+      <alinéa>Mettre le pain dans un moule de <mesure quantité="8"
+          unité="pouce"/>&#160;x&#160;<mesure quantité="8"
+          unité="pouce"/>.</alinéa>
+      <alinéa>Verser le mélange des oeufs et du lait avec sur le
+      pain.</alinéa>
+    </étape>
+    <étape>
+      <alinéa>Faire cuire <durée quantité="50" unité="minute"/> au four à
+          <mesure quantité="325" unité="degréF"/>.</alinéa>
+    </étape>
+  </étapes>
+</recette>

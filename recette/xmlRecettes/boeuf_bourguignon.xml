@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recette SYSTEM "recette.dtd">
+<?xml-stylesheet type="text/xsl" href="recette_fo.xsl"?>
+<recette ID="boeuf_bourguignon" plat="boeuf" calories="9999">
+	<nom>Boeuf bourguignon</nom>
+	<description>La fameuse recette de Benoit pour tous ses amis ontariens.</description>
+	<notes>
+		<note>La recette a été contre-vérifiée et l'original a été jeté le 2007-12-17. Ajuster pour sel, poivre, thym, feuilles laurier, carottes, champignons, sorte de vin</note>
+	</notes>
+	<liste_ingrédients portions="10">
+		<ingrédient quantité="1">gros oignon</ingrédient>
+		<ingrédient quantité="3" unité="càsoupe">farine</ingrédient>
+		<ingrédient quantité="1">bouteille de vin rouge</ingrédient>
+		<ingrédient quantité="2">gousses d'ail</ingrédient>
+		<ingrédient quantité="2" unité="càsoupe">pâte de tomate</ingrédient>
+		<ingrédient quantité="1" unité="càthé">sel et poivre</ingrédient>
+		<ingrédient quantité="1" unité="càthé">thym</ingrédient>
+		<ingrédient quantité="2">feuilles de laurier</ingrédient>
+		<ingrédient quantité="1" unité="càsoupe">sucre</ingrédient>
+		<ingrédient quantité="1" unité="tasse">carottes</ingrédient>
+		<ingrédient quantité="1" unité="tasse">champignons</ingrédient>
+		<ingrédient quantité="3" unité="livre">boeuf</ingrédient>
+	</liste_ingrédients>
+	<étapes>
+		<préparation>
+			<durée quantité="1" unité="heure"/>
+		</préparation>
+		<cuisson>
+			<durée quantité="3" unité="heure"/>
+		</cuisson>
+		<étape>
+			<alinéa>Faire revenir un gros oignon et l'ail dans le beurre.</alinéa>
+		</étape>
+		<étape>
+			<alinéa>Ajouter le boeuf, faire saisir.</alinéa>
+		</étape>
+		<étape>
+			<alinéa>Mettre la farine et remuer. Ajouter les 
+			épices, la pâte de tomates, sel et poivre.</alinéa>
+		</étape>
+		<étape>
+			<alinéa>Couvrir de vin rouge, ajouter les carottes et 
+			laisser mijoter à feu doux pendant <durée quantité="2" unité="heure"/>
+			ou <durée quantité="2.5" unité="heure"/>.
+			</alinéa>
+		</étape>
+		<étape>
+			<alinéa>Ajouter les champignons et faire cuire 
+			<durée quantité="0.5" unité="heure"/> à feu doux.</alinéa>
+		</étape>
+	</étapes>
+</recette>

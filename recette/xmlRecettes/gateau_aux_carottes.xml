@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="recette_html.xsl"?>
+<!DOCTYPE recette SYSTEM "recette.dtd">
+<recette xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="recette.xsd"
+ ID="gâteau_aux_carottes"
+ plat="dessert"
+ calories="325">
+	<nom>Gâteau aux carottes</nom>
+	<description>
+      Un grand classique de la cuisine nord-américaine. 
+      Les carottes sont bon marché et on
+      en a toujours sous la main. Il reste frais et se gèle facilement.
+    </description>
+	<notes>
+		<note>Ce dessert fait un excellent gâteau d'anniversaire.</note>
+		<note type="personnelle">
+      Ma femme rajoute toujours un peu de vanille.
+    </note>
+		<note type="source">
+      Reproduit (sans permission) de Ron Kalenuik, 
+      «&#160;Tout simplement délicieux&#160;», ISBN 1-55185-428-7
+    </note>
+	</notes>
+	<liste_ingrédients portions="16">
+		<ingrédient quantité="4">oeufs</ingrédient>
+		<ingrédient unité="tasse" quantité="1">sucre granulé</ingrédient>
+		<ingrédient unité="tasse" quantité="1">huile végétale</ingrédient>
+		<ingrédient unité="tasse" quantité="2">farine tous usages</ingrédient>
+		<ingrédient unité="càthé" quantité="1.5">poudre à pâte</ingrédient>
+		<ingrédient unité="càthé" quantité="1">sel</ingrédient>
+		<ingrédient unité="càthé" quantité="2">cannelle</ingrédient>
+		<ingrédient unité="tasse" quantité="2">carottes râpées</ingrédient>
+		<ingrédient unité="tasse" quantité="1.5">pommes (pelées, décortiquées, râpées)</ingrédient>
+		<ingrédient unité="tasse" quantité="2">raisins</ingrédient>
+		<ingrédient unité="tasse" quantité="1">amandes en morceaux</ingrédient>
+	</liste_ingrédients>
+	<étapes>
+		<préparation>
+			<durée quantité="1.5" unité="heure"/>
+		</préparation>
+		<cuisson>
+			<durée quantité="2" unité="heure"/>
+		</cuisson>
+		<étape>
+			<alinéa>
+        Dans un gros bol, battre les oeufs jusqu'à 
+        ce qu'ils soient très légers et mousseux.
+      </alinéa>
+			<alinéa>
+        Ajouter le sucre graduellement en battant jusqu'à 
+        ce que le mélange soit léger.
+      </alinéa>
+			<alinéa>Ajouter graduellement l'huile en brassant.</alinéa>
+		</étape>
+		<étape>
+			<alinéa>
+        Tamiser ensemble la farine avec la poudre à pâte, 
+        le sel et la cannelle. Ajouter lentement les oeufs 
+        au mélange.
+      </alinéa>
+			<alinéa>
+        Incorporer les carottes, les pommes, les raisins et les 
+        noix en brassant.
+      </alinéa>
+		</étape>
+		<étape>
+			<alinéa>Étendre dans un moule carré de
+        <mesure quantité="9" unité="pouce"/>
+        graissé et cuire dans un four préchauffé à
+        <mesure quantité="350" unité="degréF"/>
+        pendant <durée quantité="1.5" unité="aucune"/> à <durée quantité="2" unité="heure"/> 
+        ou jusqu'à ce qu'un cure-dents inséré au centre du gâteau en ressorte propre.
+       </alinéa>
+		</étape>
+		<étape>
+			<alinéa>
+         Laisser refroidir dans le moule pendant 10 à 15 minutes, 
+         démouler et laisser refroidir complètement. Glacer avec le
+         «&#160;<hlink href="glacage_fromage_creme">Glaçage au 
+         fromage à la crème</hlink>&#160;».
+       </alinéa>
+		</étape>
+	</étapes>
+</recette>
